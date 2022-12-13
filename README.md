@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Albertobenz
 - 👀 I’m interested in developing applications, games and music.
-- 🌱 I’m currently learning to be better at programming C++, Python 3 and Web apps, for backend programming
-- 💞️ I’m looking to collaborate on applications projects that help better resources use and videogames.
+- 🌱 I’m currently learning to be better at programming C++, Python 3 and Web apps, for backend programming and Javascript for frontend.
+- 💞️ I’m looking to collaborate on applications projects that help for better resources use and videogames.
 - 📫 How to reach me on LinkedIn jorgeablertobenitezborbon
 
 <!---
